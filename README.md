@@ -1,0 +1,2 @@
+hubot-attend-manager
+====================
